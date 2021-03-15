@@ -5,7 +5,7 @@ import android.graphics.Typeface
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
-import id.kanesa.kanesaservice.adapter.BottomNavPagerAdapter
+import id.kanesa.kanesaservice.adapters.BottomNavPagerAdapter
 import id.kanesa.kanesaservice.ui.home.HomeFragment
 import id.kanesa.kanesaservice.ui.pesanan.PesananFragment
 import id.kanesa.kanesaservice.ui.profile.ProfileFragment

@@ -1,4 +1,4 @@
-package id.kanesa.kanesaservice.adapter
+package id.kanesa.kanesaservice.adapters
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
